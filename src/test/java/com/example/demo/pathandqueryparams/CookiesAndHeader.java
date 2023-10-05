@@ -28,5 +28,7 @@ public class CookiesAndHeader {
                 .then()
                         .statusCode(200)
                         .log().all();
+
+
     }
 }
